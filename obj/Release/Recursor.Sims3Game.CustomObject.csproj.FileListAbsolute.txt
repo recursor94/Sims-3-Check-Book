@@ -1,0 +1,5 @@
+C:\Users\andrew\projects\newobject\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\andrew\projects\newobject\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\bin\Release\Recursor.Sims3Game.CustomObject.dll
+C:\Users\andrew\projects\newobject\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\bin\Release\Recursor.Sims3Game.CustomObject.pdb
+C:\Users\andrew\projects\newobject\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Release\Recursor.Sims3Game.CustomObject.dll
+C:\Users\andrew\projects\newobject\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Release\Recursor.Sims3Game.CustomObject.pdb
