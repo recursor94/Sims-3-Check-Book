@@ -1,0 +1,15 @@
+C:\Users\andrew\projects\newobject\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\bin\Debug\Recursor.Sims3Game.CustomObject.dll
+C:\Users\andrew\projects\newobject\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\bin\Debug\Recursor.Sims3Game.CustomObject.pdb
+C:\Users\andrew\projects\newobject\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\andrew\projects\newobject\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Debug\Recursor.Sims3Game.CustomObject.dll
+C:\Users\andrew\projects\newobject\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Debug\Recursor.Sims3Game.CustomObject.pdb
+C:\Users\andrew\projects\Sims3Checking\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\andrew\projects\Sims3Checking\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Debug\Recursor.Sims3Game.CustomObject.dll
+C:\Users\andrew\projects\Sims3Checking\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Debug\Recursor.Sims3Game.CustomObject.pdb
+C:\Users\andrew\projects\Sims3Checking\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\bin\Debug\Recursor.Sims3Game.CustomObject.dll
+C:\Users\andrew\projects\Sims3Checking\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\bin\Debug\Recursor.Sims3Game.CustomObject.pdb
+C:\Users\ANDREW\projects\projects\Sims3Checking\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\bin\Debug\Recursor.Sims3Game.CustomObject.dll
+C:\Users\ANDREW\projects\projects\Sims3Checking\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\bin\Debug\Recursor.Sims3Game.CustomObject.pdb
+C:\Users\ANDREW\projects\projects\Sims3Checking\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Debug\Recursor.Sims3Game.CustomObject.csprojResolveAssemblyReference.cache
+C:\Users\ANDREW\projects\projects\Sims3Checking\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Debug\Recursor.Sims3Game.CustomObject.dll
+C:\Users\ANDREW\projects\projects\Sims3Checking\Recursor.Sims3Game.CustomObject\Recursor.Sims3Game.CustomObject\obj\Debug\Recursor.Sims3Game.CustomObject.pdb
